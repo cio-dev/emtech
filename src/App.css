@@ -1,0 +1,56 @@
+body{
+    margin:0;
+    padding:0;
+    
+}
+
+/* hamburger menu */
+.hamburger-menu {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.hamburger-line {
+  width: 25px;
+  height: 3px;
+  background-color: #333;
+  margin-bottom: 4px;
+}
+
+
+/* Slider components */
+
+.container {
+  height: 100vh;
+  padding: 10px;
+  margin-top: 100px;
+  display: flex;
+  align-items: left;
+  justify-content: left;
+}
+
+.menu {
+  width: 200px;
+  max-height: calc(100vh - 1/3 * 100vh);
+  overflow-y: auto;
+  background-color: #a58787;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.menu p {
+  margin: 10rem;
+}
+
+.menu a {
+  display: block; /* Convert the anchor tags to block elements */
+  border-left: 3px solid #ccc; /* Add a left border to each category */
+  padding-left: 10px; /* Add some left padding to separate the text from the border */
+  text-decoration: none; /* Remove the default underline on links */
+  color: #333; /* Set the link color */
+}
+
+.menu a:hover {
+  background-color: #e5e5e5; /* Add a background color on hover */
+}
