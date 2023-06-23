@@ -561,3 +561,24 @@ margin-left: 30%;
   margin-top: 5%;
   margin-left: 30%;
 }
+
+
+.news-banner {
+  background-color: #9E0B19E5;
+  width: 339px;
+  height: 39px;
+  flex-shrink: 0;
+  display: flex;
+
+}
+
+.text-wrapper-2 {
+  color: #FFF;
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: 700;
+
+  display: flex;
+
+  margin-top: 3%;
+}

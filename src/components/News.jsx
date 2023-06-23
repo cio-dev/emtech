@@ -19,48 +19,8 @@ const News = () => {
   return (
     <div className="NEWS">
       <div className="div">
-        <div className="hamburger-menu">
-          <div className="overlap-group">
-            <div className="rectangle" />
-            <img className="vector" alt="Vector" src="vector-1.png" />
-            <img className="img" alt="Vector" src="vector-2.png" />
-            <img className="vector-2" alt="Vector" src="vector-3.png" />
-          </div>
-        </div>
-        <div className="overlap">
-          <div className="header">
-            <div className="CAFA-logo-wrapper">
-              <img className="CAFA-logo" alt="Cafa logo" src="CAFA-logo.png" />
-            </div>
-            <div className="TUP-CAFA">
-              TUP
-              <br />
-              CAFA
-            </div>
-            <div className="vector-wrapper">
-              <img className="vector-3" alt="Vector" src="vector.png" />
-            </div>
-          </div>
-          <div className="header-2">
-            <div className="overlap-2">
-              <div className="logo" />
-              <img className="CAFA-logo-2" alt="Cafa logo" src="image.png" />
-            </div>
-            <div className="text-wrapper">
-              TUP
-              <br />
-              CAFA
-            </div>
-            <div className="img-wrapper">
-              <img className="vector-4" alt="Vector" src="vector-4.png" />
-            </div>
-          </div>
-        </div>
         <div className="news-banner">
-          <div className="overlap-3">
-            <img className="rectangle-2" alt="Rectangle" src="rectangle-1.png" />
-            <div className="text-wrapper-2">NEWS</div>
-          </div>
+          <div className="text-wrapper-2">NEWS</div>
         </div>
         <div className="overlap-4">
           <div className="selection">
