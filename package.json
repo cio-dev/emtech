@@ -15,7 +15,8 @@
     "react-icons": "^4.9.0",
     "react-icons-all": "^4.5.1",
     "react-router-dom": "^6.13.0",
-    "react-sidebar": "^3.0.2"
+    "react-sidebar": "^3.0.2",
+    "tailwind": "^4.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.37",
