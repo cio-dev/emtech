@@ -242,9 +242,13 @@
   height: 702px;
   left: 0;
   position: absolute;
-  top: 0;
+  top: 20px; /* Adjust the top value according to your layout */
   width: 1256px;
+  transform: rotate(90deg);
+  margin-top: 20px;
+  margin: 20px auto; /* Add a 20px margin on the top and bottom, and auto margin for left and right */
 }
+
 
 .NEWS .rectangle-3 {
   background-color: #d9d9d9;
@@ -254,6 +258,7 @@
   position: absolute;
   top: 0;
   width: 383px;
+  margin-left: 10%;
 }
 
 .NEWS .rectangle-4 {
@@ -264,16 +269,7 @@
   position: absolute;
   top: 0;
   width: 384px;
-}
-
-.NEWS .rectangle-5 {
-  background-color: #d9d9d9;
-  border-radius: 50px;
-  height: 702px;
-  left: 873px;
-  position: absolute;
-  top: 0;
-  width: 383px;
+  margin-left: 10%;
 }
 
 .NEWS .news {
