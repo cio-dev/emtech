@@ -20,7 +20,7 @@ const activities = () => {
     <div className="activities">
       <div className="div ">
         <div className="activities-banner">
-          <div className="text-wrapper-2 ">activities</div>
+          <div className="text-wrapper-2 ">ACTIVITIES</div>
         </div>
         <div className="overlap-4">
           <div className="selection">
