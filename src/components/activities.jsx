@@ -1,7 +1,7 @@
 
 import React, { useEffect, useState } from "react"
 import Modal from "./Modal";
-import "./news.css";
+import "./activities.css";
 
 const activities = () => {
   const [toggle, setToggle] = useState(false)
@@ -29,19 +29,17 @@ const activities = () => {
             <div className="rectangle-5" />
           </div>
 
-
           <div className="activities-3">
-            <img className="activities-4" alt="activities" src="src/assets/5.png"  onClick={() => popUp("Lorem Ipsum 1","src/assets/5.png","desciptions")} />
+            <img className="activities-4" alt="activities" src="src/assets/5.png"  onClick={() => popUp("Lorem Ipsum 2","src/assets/5.png","desciptions")} />
             <div className="text-wrapper-3">Lorem Ipsum</div>
             <p className="text-wrapper-4">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
               dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-              ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+              eacommodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
               fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
               mollit anim id est laborum.
             </p>
             
-            <img className="line" alt="Line" src="line-1.png" />
           </div>
           <div className="activities-5">
             <img className="activities-6" alt="activities" src="src/assets/7.png"  onClick={() => popUp("Lorem Ipsum 1","src/assets/7.png","desciptions")} />

@@ -1,4 +1,4 @@
-.NEWS {
+.activities {
   background-color: #ffffff;
   display: flex;
   flex-direction: row;
@@ -6,7 +6,7 @@
   width: 100%;
 }
 
-.NEWS .div {
+.activities .div {
   background-color: #ffffff;
   border: 1px none;
   height: 1024px;
@@ -15,7 +15,7 @@
   width: 1440px;
 }
 
-.NEWS .hamburger-menu {
+.activities .hamburger-menu {
   height: 68px;
   left: 1305px;
   position: absolute;
@@ -23,13 +23,13 @@
   width: 71px;
 }
 
-.NEWS .overlap-group {
+.activities .overlap-group {
   border-radius: 20px;
   height: 68px;
   position: relative;
 }
 
-.NEWS .rectangle {
+.activities .rectangle {
   background-color: #d9d9d9b2;
   border-radius: 20px;
   height: 68px;
@@ -40,7 +40,7 @@
   width: 71px;
 }
 
-.NEWS .vector {
+.activities .vector {
   height: 5px;
   left: 18px;
   position: absolute;
@@ -48,7 +48,7 @@
   width: 36px;
 }
 
-.NEWS .img {
+.activities .img {
   height: 5px;
   left: 18px;
   position: absolute;
@@ -56,7 +56,7 @@
   width: 36px;
 }
 
-.NEWS .vector-2 {
+.activities .vector-2 {
   height: 5px;
   left: 18px;
   position: absolute;
@@ -64,7 +64,7 @@
   width: 36px;
 }
 
-.NEWS .overlap {
+.activities .overlap {
   height: 65px;
   left: 97px;
   position: absolute;
@@ -72,7 +72,7 @@
   width: 1173px;
 }
 
-.NEWS .header {
+.activities .header {
   height: 64px;
   left: 0;
   position: absolute;
@@ -80,7 +80,7 @@
   width: 1173px;
 }
 
-.NEWS .CAFA-logo-wrapper {
+.activities .CAFA-logo-wrapper {
   background-color: #ffffff;
   border-radius: 32px;
   height: 64px;
@@ -90,7 +90,7 @@
   width: 64px;
 }
 
-.NEWS .CAFA-logo {
+.activities .CAFA-logo {
   height: 62px;
   left: 1px;
   object-fit: cover;
@@ -99,7 +99,7 @@
   width: 62px;
 }
 
-.NEWS .TUP-CAFA {
+.activities .TUP-CAFA {
   color: #9e0b19;
   font-family: "Inter-Bold", Helvetica;
   font-size: 22px;
@@ -112,7 +112,7 @@
   width: 65px;
 }
 
-.NEWS .vector-wrapper {
+.activities .vector-wrapper {
   background-color: #d9d9d9;
   border-radius: 80px;
   height: 35px;
@@ -122,7 +122,7 @@
   width: 213px;
 }
 
-.NEWS .vector-3 {
+.activities .vector-3 {
   height: 25px;
   left: 177px;
   position: absolute;
@@ -130,7 +130,7 @@
   width: 25px;
 }
 
-.NEWS .header-2 {
+.activities .header-2 {
   height: 65px;
   left: 0;
   position: absolute;
@@ -138,7 +138,7 @@
   width: 1173px;
 }
 
-.NEWS .overlap-2 {
+.activities .overlap-2 {
   height: 65px;
   left: 0;
   position: absolute;
@@ -146,7 +146,7 @@
   width: 64px;
 }
 
-.NEWS .logo {
+.activities .logo {
   background-color: #ffffff;
   border-radius: 32px;
   height: 64px;
@@ -156,7 +156,7 @@
   width: 64px;
 }
 
-.NEWS .CAFA-logo-2 {
+.activities .CAFA-logo-2 {
   height: 62px;
   left: 0;
   object-fit: cover;
@@ -165,7 +165,7 @@
   width: 62px;
 }
 
-.NEWS .text-wrapper {
+.activities .text-wrapper {
   color: #9e0b19;
   font-family: "Inter-Bold", Helvetica;
   font-size: 22px;
@@ -178,7 +178,7 @@
   width: 65px;
 }
 
-.NEWS .img-wrapper {
+.activities .img-wrapper {
   background-color: #d9d9d9;
   border-radius: 80px;
   height: 35px;
@@ -188,7 +188,7 @@
   width: 213px;
 }
 
-.NEWS .vector-4 {
+.activities .vector-4 {
   height: 25px;
   left: 177px;
   position: absolute;
@@ -196,7 +196,7 @@
   width: 25px;
 }
 
-.NEWS .news-banner {
+.activities .activities-banner {
   height: 55px;
   left: 114px;
   position: absolute;
@@ -204,13 +204,13 @@
   width: 341px;
 }
 
-.NEWS .overlap-3 {
+.activities .overlap-3 {
   height: 55px;
   position: relative;
   width: 339px;
 }
 
-.NEWS .rectangle-2 {
+.activities .rectangle-2 {
   height: 39px;
   left: 0;
   position: absolute;
@@ -218,7 +218,7 @@
   width: 339px;
 }
 
-.NEWS .text-wrapper-2 {
+.activities .text-wrapper-2 {
   color: #ffffff;
   font-family: "Inter-Bold", Helvetica;
   font-size: 20px;
@@ -230,7 +230,7 @@
   top: 7px;
 }
 
-.NEWS .overlap-4 {
+.activities .overlap-4 {
   height: 702px;
   left: 96px;
   position: absolute;
@@ -238,41 +238,40 @@
   width: 1256px;
 }
 
-.NEWS .selection {
+.activities .selection {
   height: 702px;
   left: 0;
   position: absolute;
   top: 20px; /* Adjust the top value according to your layout */
-  width: 1256px;
+  width: 100%;
   transform: rotate(90deg);
-  margin-top: 20px;
-  margin: 20px auto; /* Add a 20px margin on the top and bottom, and auto margin for left and right */
+  margin: auto;
+
 }
 
 
-.NEWS .rectangle-3 {
+.activities .rectangle-3 {
   background-color: #d9d9d9;
   border-radius: 50px;
-  height: 702px;
-  left: 0;
-  position: absolute;
+  height: 1000px;
+  position: fixed;
   top: 0;
   width: 383px;
-  margin-left: 10%;
+  margin-left: 20%;
 }
 
-.NEWS .rectangle-4 {
+.activities .rectangle-4 {
   background-color: #d9d9d9;
   border-radius: 50px;
-  height: 702px;
+  height: 1000px;
   left: 436px;
   position: absolute;
   top: 0;
   width: 384px;
-  margin-left: 10%;
+  margin-left: 20%;
 }
 
-.NEWS .news {
+.activities .activities {
   height: 638px;
   left: 896px;
   position: absolute;
@@ -280,7 +279,7 @@
   width: 342px;
 }
 
-.NEWS .h-1 {
+.activities .h-1 {
   color: #000000;
   font-family: "Inter-Bold", Helvetica;
   font-size: 36px;
@@ -294,7 +293,7 @@
   width: 241px;
 }
 
-.NEWS .p {
+.activities .p {
   color: #000000;
   font-family: "Inter-Regular", Helvetica;
   font-size: 20px;
@@ -308,25 +307,20 @@
   width: 337px;
 }
 
-.NEWS .line {
+.activities .line {
   height: 1px;
   left: 0;
-  object-fit: cover;
-  position: absolute;
-  top: 258px;
-  width: 329px;
+
+  width: 100px;
+  left: 600px;
+  line-height: 24px;
+  margin-top: 20%;
+  margin-left: 60%;
+
 }
 
-.NEWS .news-2 {
-  height: 190px;
-  left: 0;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 338px;
-}
 
-.NEWS .news-3 {
+.activities .activities-3 {
   height: 638px;
   left: 456px;
   position: absolute;
@@ -334,16 +328,16 @@
   width: 345px;
 }
 
-.NEWS .news-4 {
+.activities .activities-4 {
   height: 190px;
-  left: 3px;
+  left: -430px;
   object-fit: cover;
   position: absolute;
-  top: 0;
+  top: 450px;
   width: 338px;
 }
 
-.NEWS .text-wrapper-3 {
+.activities .text-wrapper-3 {
   color: #000000;
   font-family: "Inter-Bold", Helvetica;
   font-size: 36px;
@@ -353,11 +347,11 @@
   line-height: 24px;
   position: absolute;
   text-align: center;
-  top: 216px;
+  top: 420px;
   width: 241px;
 }
 
-.NEWS .text-wrapper-4 {
+.activities .text-wrapper-4 {
   color: #000000;
   font-family: "Inter-Regular", Helvetica;
   font-size: 20px;
@@ -366,12 +360,15 @@
   letter-spacing: 0;
   line-height: 24px;
   position: absolute;
-  text-align: center;
-  top: 270px;
-  width: 337px;
+  margin-left: 150%;
+  margin-top: 90%;
+  left: -550px;
+  top: 180px;
+  width: 500px;
+
 }
 
-.NEWS .line-2 {
+.activities .line-2 {
   height: 1px;
   left: 0;
   object-fit: cover;
@@ -380,7 +377,7 @@
   width: 329px;
 }
 
-.NEWS .news-5 {
+.activities .activities-5 {
   height: 638px;
   left: 23px;
   position: absolute;
@@ -388,7 +385,7 @@
   width: 343px;
 }
 
-.NEWS .news-6 {
+.activities .activities-6 {
   height: 190px;
   left: 1px;
   object-fit: cover;
@@ -397,21 +394,22 @@
   width: 338px;
 }
 
-.NEWS .text-wrapper-5 {
+.activities .text-wrapper-5 {
   color: #000000;
   font-family: "Inter-Bold", Helvetica;
   font-size: 36px;
   font-weight: 700;
-  left: 50px;
+  left: 500px;
   letter-spacing: 0;
   line-height: 24px;
   position: absolute;
   text-align: center;
-  top: 216px;
+  top: 20px;
   width: 241px;
+
 }
 
-.NEWS .text-wrapper-6 {
+.activities .text-wrapper-6 {
   color: #000000;
   font-family: "Inter-Regular", Helvetica;
   font-size: 20px;
@@ -420,12 +418,14 @@
   letter-spacing: 0;
   line-height: 24px;
   position: absolute;
-  text-align: center;
-  top: 270px;
-  width: 337px;
+  margin-left: 150%;
+  margin-bottom: 70%;
+  left: -100px;
+  top: 80px;
+  width: 500px;
 }
 
-.NEWS .line-3 {
+.activities .line-3 {
   height: 1px;
   left: 0;
   object-fit: cover;
@@ -434,7 +434,7 @@
   width: 329px;
 }
 
-.NEWS .footer {
+.activities .footer {
   background-color: transparent;
   height: 41px;
   left: 0;
@@ -444,7 +444,7 @@
 }
 
 
-.NEWS .p-wrapper {
+.activities .p-wrapper {
   background-image: url(./footer.png);
   background-size: 100% 100%;
   height: 41px;
@@ -452,7 +452,7 @@
   width: 1440px;
 }
 
-.NEWS .text-wrapper-7 {
+.activities .text-wrapper-7 {
   color: #ffffff;
   font-family: "Inter-Bold", Helvetica;
   font-size: 10px;
@@ -538,10 +538,7 @@ margin-left: 30%;
   margin-left: 30%;
 }
 
-.line {
 
-  background-color: black;
-}
 
 .line_modal {
 
@@ -559,7 +556,7 @@ margin-left: 30%;
 }
 
 
-.news-banner {
+.activities-banner {
   background-color: #9E0B19E5;
   width: 339px;
   height: 39px;
